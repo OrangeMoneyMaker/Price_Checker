@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price_Checker_API", "Price_Checker_API\Price_Checker_API.csproj", "{17BB2DA3-F65C-446F-8F52-1FA66824CD5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price_API", "Price_API\Price_API.csproj", "{8F60D297-083E-44A8-8205-9E728956598B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17BB2DA3-F65C-446F-8F52-1FA66824CD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17BB2DA3-F65C-446F-8F52-1FA66824CD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17BB2DA3-F65C-446F-8F52-1FA66824CD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17BB2DA3-F65C-446F-8F52-1FA66824CD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F60D297-083E-44A8-8205-9E728956598B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F60D297-083E-44A8-8205-9E728956598B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F60D297-083E-44A8-8205-9E728956598B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F60D297-083E-44A8-8205-9E728956598B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
